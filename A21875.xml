@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Articles concerning the admiralty of England, and the iurisdiction thereof]</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21875</idno>
+            <idno type="STC">STC 8204.5</idno>
+            <idno type="STC">ESTC S4232</idno>
+            <idno type="EEBO-CITATION">23543133</idno>
+            <idno type="OCLC">ocm 23543133</idno>
+            <idno type="VID">26734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1813:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Articles concerning the admiralty of England, and the iurisdiction thereof]</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>[1+] p.   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title suggested by STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>By the Privy Council.--Cf. STC (2nd ed.).</note>
+                  <note>Place of publication and name of publisher taken from colophon; date of imprint suggested by STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>With 57 articles of inquiry; 21 July 1591.--Cf. STC (2nd ed.).</note>
+                  <note>Imperfect: lacks first of two sheets.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Admiralty --  England.</term>
+               <term>Maritime law --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Great Britain --  Politics and government --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <list>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:26734:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 17 -->
+               <item>31 Item ye ſhall enquire of thoſe which within any of their Shippes doe weigh marchandizes or goods, by or with ballances or weights, not agreeing or being ſealed with or according to her Maieſties Standard, to the fraud, hurt and deceipt of her people.</item>
+               <item>32 Item ye ſhall enquire of all thoſe <hi>viz.</hi> Marſhals, Bayliffes, and other miniſters, and ſtewards of Noblemen, that haue preſumed to take or receiue to the vſe of their Lords and Maſters any goods or other things whatſoeuer vpon the high Sea, or other places within the iuriſdiction of the Admiraltie ſpoiled and brought to land haue preſumed to take or receiue to the vſe of their Lords and maſters ſuch goods as are forfeited, or the forfeiture of them to the preiudice and derogation of the Lord high Admirall.</item>
+               <item>33 Item ye ſhall enquire of all thoſe which gather and incloſe the ſalt water into ditches, and make to themſelues ſtanding fiſh ponds or indraughts and of <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ew making and beginning gulfes and other deepe and immoueable places, getting and receiuing the commodities and profits thereof to their owne proper and priuate vſes and neceſſaries, which in ſalt waters ought to be common to all perſons.</item>
+               <item>34 Item ye ſhall enquire of thoſe which doe gather and receaue within any port or other place, of any ſhip of the portage and burthen of fiftie Tunnes and vpwards for anchorage thereof aboue foure pence, and of any ſhip vnder that burthen for anchorage thereof aboue two pence, by meanes whereof the ſaid ſhips doe leaus and forſake the ſaid places to the burt hinderaunce and domage of the common people adioyning.</item>
+               <item>35 Item ye ſhall enquire of the keepers of ports, Cuſtomers, water bayliffes or other officers whatſoeuer, which claime or begin new Cuſtomes for their owne or their maſters priuate or proper commodities. By meanes whereof the ſhippes and merchants doe forſake the ſaid port and places with their merchan<g ref="char:EOLhyphen"/>dizes to the hurt, domage, and loſſe of the common profite and vtilitie of the Commonwealth.</item>
+               <item>36 Item ye ſhall enquire of thoſe which are ordeyned or preſted to ſerue the King vpon the Sea in any ſhip in tyme of warre or peace, and if from the ſayd ſeruice, without leaue or vnlawfully they haue abſented themſelues.</item>
+               <item>37 Item ye ſhall enquire what men of Honours, Stewards and Bayliffes inhabiting or hauing manſion houſes, neere the Sea coaſt, doe hold and vſurpe to hold plea, of any matter or cauſe concerning merchants and martiners or marine cauſes aboue the ſumme of forty ſhillings ſterling.</item>
+               <item>38 Item yee ſhall enquire of all ſhips which haue byn arreſted or preſt to ſerue her Maieſtie vpon the Sea, and afterwards the maſters, owners, and pro<g ref="char:EOLhyphen"/>prietaries thereof, by fraud and deceipt haue withdrawen or kepe them from the ſame ſeruice, defrauding her Maieſtie.</item>
+               <item>39 Item ye ſhall enquire of thoſe which wittingly and willingly haue cut the cables of any ſhip or ſhips, or other veſſell or veſſels, or hath broken any (<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>reaſonable cauſe vrgeing him or them thereunto) by meanes whereof the ſaid ſhip or veſſell is loſt or drowned or ſame man by that occaſion killed.</item>
+               <item>40 Item ye ſhall enquire of thoſe which either by day or night haue remoued the anchor of any ſhip (not giuing warning thereof firſt, to the maſter and mar<g ref="char:EOLhyphen"/>tiners thereof) by meanes whereof the ſaid ſhip or ſhips was caſt away or loſt, or any man ſlaine.</item>
+               <item>41 Item yee ſhall enquire of felonies committed and done vpon forraine or ſtrange ſhips, or veſſels being or tyding at an Anchor in any port, when it is not apparant, who or what be or they were, that committed or did the ſaid ſpoile or piracie.</item>
+               <item>42 Item yee ſhall enquire of petite tranſgreſſors or pickers which haue ſtollen or take away vpon the Sea, or within any port or creeke, anchors, cables, beyes, ſayles, topes, girdles, ſhirts, breches, or other ſamll things whatſoeuer.</item>
+               <item>43 Item ye ſhall enquire of all common and notorious malefactors aſwell vpon the high Seas, as in any Port, Hauen, Riner, Creeke, or Streame.</item>
+               <item>44. Item ye ſhall enquire who of Cuſtome force, or authoritie (from merchants or mariners, with their ſhips fraighted and laden with victuals and mer<g ref="char:EOLhyphen"/>chandizes entring any ports or other places) doth take or hath taken away victuals againſt their wils, and pay them for the ſame at their pleaſure, by occaſion whereof the ſaid merchants and marriners, doe leane and forſake the ſayd Ports, and places, to the hurt and domage of her Maieſties good ſubiects.</item>
+               <item>45 Item ye ſhall enquire of all thoſe perſons that commonly fight with or beace any of her Maieſties ſubiects and people within the iuriſdiction of the Lord Admirall, contrary to the peace of her Maieſtie.</item>
+               <item>46 Item ye ſhall enquire of all thoſe which vpon the high Seas, haue found any ſhips, pinnaſſes, Bontes forſaken, or wayfres dryning or floating with<g ref="char:EOLhyphen"/>out any creature in the ſame, being by the ſpace of a day naturall, and hath not anſwered the Lord Admirall his part <hi>viz,</hi> the halfe thereof.</item>
+               <item>47 Item ye ſhall enquire of all thoſe which doe receaue or conceale Deodandes (to the Lord Admirall in vertue of his office of Admiraltie by right apper<g ref="char:EOLhyphen"/>taying or belonging) that is ſhips or other veſſels, out of which all lyuing creatures in the ſame by ſhiwracke ſeemeth to haue byn periſhed or caſt away.</item>
+               <item>48 Item ye ſhall enquire if any perſon or perſons haue byn ſtaine, drowned, or come to his or their death by any ſhip or ſhips, or their Tackle, furniture as Anchor, Cable rope, or any other thing whatſoeuer to the ſhip belonging or by ſayling, mouing or going of the ſhip vpon the ſea.</item>
+               <item>49 Item ye ſhall enquire of thoſe which buy any kind of graine or corne of whatſoeuer ſtate, condition or degree they be vpon the Sea coaſts, and tranſport the ſame to any the parts of beyond the Seas without the ſpeciall licence of the Queenes Maieſtie.</item>
+               <item>50 Item yee ſhall enquire of thoſe which after ſome mariners, or fiſhermen haue ſet or layd their nets, toards, or engines to fiſh, doe come after them, and place, pitche or lay their nets and engines ſo neere them; that the fiſhermen which firſt ſet cannot fiſh, but are depriued and bereft of the benefit of their birth and <gap reason="illegible: in gutter" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ing, or otherwiſe much grieued and troubled, by meanes whereof contentions and debates often grow, and happen, to the great preiudice of her Maieſtie, the Lord high Admirall, and other her Maieſties ſubiects, againſt the lawes of the Sea in this behaife prouided.</item>
+               <item>51 Item ye ſhall enquire and true preſentment make of all thoſe that ſince the late Proclamation haue had traffique with the Leguers in Fraunce, or ſhipped tarryed or ſent any victuals, Ordinauce, Powder, ſhort or other Artillerie for Spaine, the Iſlands, or any Leaguer towne in Fraunce, or other place, in <gap reason="illegible: in gutter" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ity with her Maieſtie.</item>
+               <item>52 Item yee ſhall enquire and preſent all manuer of ſhippes, boates, veſſels, and other goods of men outlawed, remayning within the iuriſdiction of the Admiraltie.</item>
+               <item>53 Item ye ſhall enquire and truely preſent all thoſe that haue ſet out any Ships or other veſſels to ſea, without Commiſſion vnder the great ſeale of Eng<g ref="char:EOLhyphen"/>land, or the great ſeale of the Admiraltie firſt obtayned.</item>
+               <item>54 Item yee ſhall enquire what ſhippes, goods, moneyes and merchandizes, haue been taken at ſea, without ſuch commiſſions, and brought into any part of her Maieſties dominions, and by whom, and who were owners, captaines, maſters, and chiefe officers of ſuch ſhips, and where they of their prizes taken <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> arriue.</item>
+               <item>55 Item ye ſhall enquire of all maner of breaking bulke of prizes, and diſpoſing and parting of prize goods before ſentence were firſt giuen in the high Court of the Admiraltie, that the ſame were lawfull prize, and truely preſent by whom and where the ſame hath been done.</item>
+               <item>56 Item ye ſhall enqure for all ſuch that contrary to their Commiſſions of repriſall haue caryed any prizes by them taken into Barbary, Fraunce, Ireland, or any other place out of this Realme, and there diſpoſed the ſame, and of what value they were of.</item>
+               <item>57 Item ye ſhall enquire, what Captaines, maſters, mariners, or others at Sea vnder colour of their Commiſſion of repriſall, haue aborded, taken or ſpoy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any ſhip or ſhips of England, France, Scotland, Denmarke, Italy, Polland, Zealand, Germany, or any other place in league or amitie with her Maieſtie, and what goods they haue ſo taken or ſpoyled, whither they haue brought them, and who haue bought, receaued or had any part of the ſame in any maner ſort or con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ition or haue borrowed or lent any money to bup the ſaid goods.</item>
+            </list>
+            <closer>
+               <signed>Iul: Caeſar.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted ar London by the Deputies of Chriſtopher Barker, <hi>Printer to the Queenes moſt excellent Maieſtie.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
